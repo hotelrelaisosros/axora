@@ -110,5 +110,8 @@ next-env.d.ts
 # Turbo
 .turbo
 
+# GitHub Workflows
+.github/workflows
+
 # GitHub workflows
 .github/workflows
